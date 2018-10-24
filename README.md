@@ -288,8 +288,8 @@ protected PermissionInterceptor mPermissionInterceptor = new PermissionIntercept
 
 * #### AgentWeb 所依赖的库
 ```
-    compile "com.android.support:design:${SUPPORT_LIB_VERSION}" // (3.0.0开始该库可选)
-    compile "com.android.support:support-v4:${SUPPORT_LIB_VERSION}"
+    compile "com.android.support:design:27.0.2" // (3.0.0开始该库可选)
+    compile "com.android.support:support-v4:27.0.2"
     SUPPORT_LIB_VERSION=27.0.2(该值会更新)
 ```
 
